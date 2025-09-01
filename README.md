@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi 👋, I'm Abdelaziz  
 
-<!--
-**AbdelazizElbanna/AbdelazizElbanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student at the Faculty of Artificial Intelligence, Egypt.  
+🤖 Passionate about **Machine Learning, Deep Learning, and Artificial Intelligence**.  
+📊 I have hands-on experience with **ML models, data preprocessing, and EDA (Exploratory Data Analysis)**.  
+💡 Worked on several projects involving **classification, regression, and data analysis** using Python and popular ML libraries.  
+🌱 Currently learning advanced concepts in **ML/DL** and improving my skills in **Data Science tools** (NumPy, Pandas, Scikit-learn, etc.).  
+🚀 Interested in building intelligent solutions and contributing to **AI-driven projects**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Me around the web:
+www.linkedin.com/in/abdelazizahmedelbanna
+abdelazizahmed456123@gmail.com
