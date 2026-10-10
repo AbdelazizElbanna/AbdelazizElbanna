@@ -110,13 +110,22 @@
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle">
+<td width="50%" valign="middle">
 <h2>Let’s connect and build</h2>
-<p>Open to collaborations, machine learning internships, and ambitious AI engineering work.</p>
+<p>Open to collaborations, machine learning opportunities, and ambitious AI engineering work.</p>
 </td>
-<td width="38%" valign="middle" align="right">
-<a href="mailto:abdelazizahmedelbanna@gmail.com">abdelazizahmedelbanna@gmail.com</a> · 
-<a href="https://github.com/abdelazizelbanna">GitHub</a>
+<td width="50%" valign="middle" align="right">
+  <a href="mailto:abdelazizahmedelbanna@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/abdelazizelbanna">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/abdelazizelbanna">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </td>
 </tr>
 </table>
