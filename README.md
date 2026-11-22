@@ -10,8 +10,8 @@
 <p><strong>Building intelligent systems and learning in public</strong></p>
 <p><sub>Kafr El-Sheikh, Egypt</sub></p>
 <p>
-  <a href="https://github.com/abdelazizelbanna">GitHub</a> · 
-  <a href="mailto:abdelazizahmedelbanna@gmail.com">Email</a> · 
+  <a href="https://github.com/abdelazizelbanna">GitHub</a> ·
+  <a href="mailto:abdelazizahmedelbanna@gmail.com">Email</a> ·
   <a href="https://linkedin.com/in/abdelazizelbanna">LinkedIn</a>
 </p>
 </td>
@@ -20,23 +20,15 @@
 </td>
 </tr>
 </table>
+
 </div>
-
-<h2>GitHub Overview</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=abdelazizelbanna&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F217603922%3Fu%3Dba0cb29d8b333a12ebde1ca0fb7eb7847f350a62%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=abdelazizelbanna&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F217603922%3Fu%3Dba0cb29d8b333a12ebde1ca0fb7eb7847f350a62%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Abdelaziz Elbanna GitHub proof metrics" />
-</picture>
-</p>
 
 <h2>Featured Projects</h2>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/AbdelazizElbanna/MedLens-AI">MedLens AI</a></h3>
+<h3><a href="https://github.com/AbdelazizElbanna/medlens-ai-skin-health-assistant">MedLens AI</a></h3>
 <p><strong>1st Place Hackathon Winner</strong></p>
 <p>Context-aware clinical RAG system for dermatological guidance featuring dual-KB intent routing, schema-aware chunking, cross-encoder reranking, and streamed SSE responses via FastAPI and React.</p>
 <p>
@@ -120,7 +112,14 @@
 
 </div>
 
-<h2>Contribution Activity</h2>
+<h2>GitHub Activity</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=abdelazizelbanna&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F217603922%3Fu%3Dba0cb29d8b333a12ebde1ca0fb7eb7847f350a62%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=abdelazizelbanna&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F217603922%3Fu%3Dba0cb29d8b333a12ebde1ca0fb7eb7847f350a62%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Abdelaziz Elbanna GitHub proof metrics" />
+</picture>
+</p>
 
 <p align="center">
 <picture>
