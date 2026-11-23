@@ -148,6 +148,10 @@
   <a href="https://github.com/abdelazizelbanna">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+    &nbsp;
+    <a href="https://drive.google.com/file/d/1tckHdocpwLkiJu3cBrdm29yCxkBR_YuW/view">
+          <img src="https://img.shields.io/badge/CV-0F766E?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
+    </a>
 </td>
 </tr>
 </table>
